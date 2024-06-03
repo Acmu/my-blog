@@ -1,5 +1,16 @@
 ## 网址导航
 
+## AI 大模型
+
+1. [chatgpt](https://chatgpt.com/)
+2. [kimi](https://kimi.moonshot.cn/)
+3. [讯飞星火](https://xinghuo.xfyun.cn/desk)
+4. [文心一言](https://yiyan.baidu.com/)
+5. [通义千问](https://tongyi.aliyun.com/qianwen/)
+6. [豆包](https://www.doubao.com/chat/)
+7. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
+8. [海螺AI](https://chatglm.cn/main/alltoolsdetail)
+
 
 
 | 分类             | 链接                                                         | 备注                                    |
@@ -8,16 +19,12 @@
 |                  | [threejs教程](https://discoverthreejs.com/zh/book/first-steps/animation-loop/) | 3d                                      |
 |                  | [d3js](https://d3js.org/)                                    | 数据驱动模型                            |
 |                  | -                                                            |                                         |
-| **ChatGPT**      | [Poe](https://poe.com/Sage)                                  | 极力推荐🔥谷歌账号登陆即可，免费使用GPT3 |
+| **ChatGPT**      | [Poe](https://poe.com/Sage)                                  | 谷歌账号登陆即可，有提问限制 |
 |                  | [Chat GPT Demo](https://chat.chatgptdemo.net/)               | [官网](https://chatgptdemo.net/zh-hans) |
 |                  | [skype Bing](https://web.skype.com/)                         | outlook邮箱登陆skype                    |
 |                  | [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt)、[chatgpt-sites](https://github.com/lzwme/chatgpt-sites)、[hello-ai](https://github.com/xxxily/hello-ai) | 网址集合                                |
 |                  | [可用1](https://free.easychat.work/)、[可用2](https://chat.waixingyun.cn/#/chat/gpt/1002)、[可用3](https://chat.weuseing.com/)、[偶尔可用](https://w0gnp.aitianhu.fun/#/chat/1002) | 从网址集合偶尔获得                      |
 |                  | [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 提示词                                  |
-|                  | [通义千问](https://qianwen.aliyun.com/)                      |                                         |
-|                  | [讯飞星火](https://xinghuo.xfyun.cn/desk)                    |                                         |
-|                  | [文心一言](https://yiyan.baidu.com/)                         |                                         |
-|                  | Bing AI                                                      |                                         |
 |                  | -                                                            |                                         |
 | **在线代码编辑** | [codepen](https://codepen.io/your-work/)                     |                                         |
 |                  | [codesandbox](https://codesandbox.io/dashboard/recent)       |                                         |
