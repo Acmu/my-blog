@@ -9,7 +9,7 @@
 5. [通义千问](https://tongyi.aliyun.com/qianwen/)
 6. [豆包](https://www.doubao.com/chat/)
 7. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
-8. [海螺AI](https://chatglm.cn/main/alltoolsdetail)
+8. [海螺AI](https://hailuoai.com/)
 
 
 
