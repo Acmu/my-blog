@@ -2,6 +2,8 @@
 
 ## AI 大模型
 
+[AI工具集](https://ai-bot.cn/)
+
 1. [chatgpt](https://chatgpt.com/)
 2. [kimi](https://kimi.moonshot.cn/)
 3. [讯飞星火](https://xinghuo.xfyun.cn/desk)
