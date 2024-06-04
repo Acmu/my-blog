@@ -13,6 +13,7 @@
 7. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
 8. [海螺AI](https://hailuoai.com/)
 9. [天工AI](https://www.tiangong.cn/)
+10. [商汤商量](https://chat.sensetime.com/wb/home)
 
 
 
