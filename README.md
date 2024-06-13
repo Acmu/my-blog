@@ -14,6 +14,7 @@
 8. [海螺AI](https://hailuoai.com/)
 9. [天工AI](https://www.tiangong.cn/)
 10. [商汤商量](https://chat.sensetime.com/wb/chat?channel=chat&chatModel=chat&sessionId=0)
+11. [万知](https://www.wanzhi.com/)
 
 
 
