@@ -13,9 +13,8 @@
 7. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
 8. [海螺AI](https://hailuoai.com/)
 9. [天工AI](https://www.tiangong.cn/)
-10. [商汤商量](https://chat.sensetime.com/wb/chat?channel=chat&chatModel=chat&sessionId=0)
+10. [deepseek](https://chat.deepseek.com/)
 11. [万知](https://www.wanzhi.com/)
-
 
 
 | 分类             | 链接                                                         | 备注                                    |
@@ -51,12 +50,4 @@
 | **计算机基础**   | [小林图解系统](https://xiaolincoding.com/)                   |                                         |
 |                  | [labuladong算法](https://labuladong.github.io/algo/)         |                                         |
 |                  | [val.town](https://www.val.town/)                            | 后端记录数据，但只有10mb                |
-
-
-
-
-
-
-
-
 
