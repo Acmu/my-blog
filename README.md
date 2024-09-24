@@ -9,12 +9,13 @@
 3. [讯飞星火](https://xinghuo.xfyun.cn/desk)
 4. [文心一言](https://yiyan.baidu.com/)
 5. [通义千问](https://tongyi.aliyun.com/qianwen/)
-6. [豆包](https://www.doubao.com/chat/)
-7. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
-8. [海螺AI](https://hailuoai.com/)
-9. [天工AI](https://www.tiangong.cn/)
-10. [deepseek](https://chat.deepseek.com/)
-11. [万知](https://www.wanzhi.com/)
+6. [腾讯元宝](https://yuanbao.tencent.com/chat)
+7. [豆包](https://www.doubao.com/chat/)
+8. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
+9. [海螺AI](https://hailuoai.com/)
+10. [天工AI](https://www.tiangong.cn/)
+11. [deepseek](https://chat.deepseek.com/)
+12. [万知](https://www.wanzhi.com/)
 
 
 | 分类             | 链接                                                         | 备注                                    |
