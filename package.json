@@ -1,20 +1,16 @@
 {
   "name": "my-blog",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.4.0"
+  },
   "scripts": {
-    "dev": "yarn docs:dev",
+    "dev": "vitepress dev docs",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
-  },
-  "devDependencies": {
-    "flexsearch": "^0.7.31",
-    "markdown-it": "^13.0.1",
-    "vite": "^4.1.4",
-    "vitepress": "^1.0.0-alpha.47",
-    "vitepress-plugin-search": "^1.0.4-alpha.19",
-    "vue": "^3.2.47"
   }
 }
