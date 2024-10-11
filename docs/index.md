@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 开始旅程
-      link: /knowledge/01
+      link: /knowledge/
     - theme: alt
       text: GitHub
       link: https://github.com/acmu/my-blog

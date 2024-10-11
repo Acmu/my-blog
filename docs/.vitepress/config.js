@@ -11,10 +11,8 @@ export default defineConfig({
         },
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            { text: '知识', link: '/knowledge/01' },
-            { text: 'JS', link: '/JavaScript/101' },
-            { text: '周刊', link: '/weekly/01' },
-            // { text: 'Examples', link: '/markdown-examples' }
+            { text: '知识', link: '/knowledge/' },
+            { text: '其他', link: '/weekly/' },
         ],
 
         sidebar: {
@@ -23,7 +21,7 @@ export default defineConfig({
                     text: '周刊',
                     collapsed: true,
                     items: [
-                        { text: '01期', link: '/weekly/01' },
+                        { text: '01期', link: '/weekly/' },
                         { text: '02期', link: '/weekly/02' },
                         { text: '03期', link: '/weekly/03' },
                         { text: '04期', link: '/weekly/04' },
@@ -41,7 +39,7 @@ export default defineConfig({
                     text: '知识',
                     collapsed: true,
                     items: [
-                        { text: '浮点数与二进制', link: '/knowledge/01' },
+                        { text: '浮点数与二进制', link: '/knowledge/' },
                         {
                             text: 'ESLint 和 Prettier 规范代码',
                             link: '/knowledge/02',
@@ -56,36 +54,34 @@ export default defineConfig({
                         { text: 'Chrome 96 更新', link: '/knowledge/07' },
                         { text: '浏览器插件入门实践', link: '/knowledge/08' },
                     ],
-                }
-            ],
-            '/JavaScript/': [
+                },
                 {
                     text: 'JavaScript',
                     collapsed: true,
                     items: [
                         {
                             text: 'defineProperty 详细解读',
-                            link: '/JavaScript/101',
+                            link: '/knowledge/js101',
                         },
-                        { text: 'JavaScript 对象解读', link: '/JavaScript/102' },
+                        { text: 'JavaScript 对象解读', link: '/knowledge/js102' },
                         {
                             text: 'JavaScript 的对象与继承',
-                            link: '/JavaScript/103',
+                            link: '/knowledge/js103',
                         },
                         {
                             text: 'JavaScript 异步与 Promise',
-                            link: '/JavaScript/104',
+                            link: '/knowledge/js104',
                         },
-                        { text: 'JavaScript 正则理解', link: '/JavaScript/105' },
+                        { text: 'JavaScript 正则理解', link: '/knowledge/js105' },
                         {
                             text: '周下载量超1亿的库是如何判断JS类型的？',
-                            link: '/JavaScript/106',
+                            link: '/knowledge/js106',
                         },
-                        { text: 'JavaScript Symbol 解读', link: '/JavaScript/107' },
-                        { text: '使用 npm link 调试包', link: '/JavaScript/108' },
-                        { text: '可选链运算符', link: '/JavaScript/109' },
-                        { text: 'JS try catch 与 return 的陷阱', link: '/JavaScript/110' },
-                        { text: 'CommonJS require 循环依赖', link: '/JavaScript/111' },
+                        { text: 'JavaScript Symbol 解读', link: '/knowledge/js107' },
+                        { text: '使用 npm link 调试包', link: '/knowledge/js108' },
+                        { text: '可选链运算符', link: '/knowledge/js109' },
+                        { text: 'JS try catch 与 return 的陷阱', link: '/knowledge/js110' },
+                        { text: 'CommonJS require 循环依赖', link: '/knowledge/js111' },
                     ],
                 }
             ],
