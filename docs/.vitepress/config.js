@@ -39,6 +39,7 @@ export default defineConfig({
                     text: '知识',
                     collapsed: true,
                     items: [
+                        { text: '爬取技术文档并转为 markdown', link: '/knowledge/09' },
                         { text: '浮点数与二进制', link: '/knowledge/' },
                         {
                             text: 'ESLint 和 Prettier 规范代码',
