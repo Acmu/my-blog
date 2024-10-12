@@ -39,6 +39,10 @@ export default defineConfig({
                     text: '知识',
                     collapsed: true,
                     items: [
+                        {
+                            text: '通过 ES 规范探究 indexOf 与 includes 对于 NaN 的区别',
+                            link: '/knowledge/10',
+                        },
                         { text: '爬取技术文档并转为 markdown', link: '/knowledge/09' },
                         { text: '浮点数与二进制', link: '/knowledge/' },
                         {
@@ -84,12 +88,32 @@ export default defineConfig({
                         { text: 'JS try catch 与 return 的陷阱', link: '/knowledge/js110' },
                         { text: 'CommonJS require 循环依赖', link: '/knowledge/js111' },
                     ],
-                }
+                },
+                {
+                    text: '问题',
+                    collapsed: true,
+                    items: [
+                        {
+                            text: 'indexDB 与 瀑布流',
+                            link: '/knowledge/interview01',
+                        },
+                    ],
+                },
+                {
+                    text: '开发解决',
+                    collapsed: true,
+                    items: [
+                        {
+                            text: 'react native simulator cmd r 不管用',
+                            link: '/knowledge/develop01',
+                        },
+                    ],
+                },
             ],
         },
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+            { icon: 'github', link: 'https://github.com/acmu/my-blog' }
         ]
     }
 })

@@ -1,9 +1,4 @@
----
-title: react native simulator cmd r 不管用
-date: 2023-03-13 18:29:41
-tags: JavaScript
----
-
+# react native simulator cmd r 不管用
  
 
 找到 simulator 的菜单，开启如下选项
@@ -20,10 +15,4 @@ tags: JavaScript
 
 
 
-
-
-https://stackoverflow.com/questions/67484582/how-to-change-record-screen-shortcut-key-command-r-in-xcode-simulator
-
-
-
-最后是这个解决的
+最后是[这个链接](https://stackoverflow.com/questions/67484582/how-to-change-record-screen-shortcut-key-command-r-in-xcode-simulator)，解决了
