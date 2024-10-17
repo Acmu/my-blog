@@ -313,7 +313,7 @@ new Decimal('0b0.010011001100110011001100110011001100110011001100110100').equals
 
 [IEEE_754-1985 标准](https://en.wikipedia.org/wiki/IEEE_754-1985)
 
-[IEEE 名称解释](https://www.ieee.org/about/ieee-history.html#:~:text=Related links-,Meaning of I-E-E-E,is the full legal name.)
+[IEEE 名称解释](https://www.ieee.org/about/ieee-history.html)
 
 [decimal.js  JavaScript 中的任意精度运算](http://mikemcl.github.io/decimal.js/) 
 
