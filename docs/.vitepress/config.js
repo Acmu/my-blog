@@ -32,6 +32,13 @@ export default defineConfig({
                         { text: '09期', link: '/weekly/09' },
                         { text: '10期', link: '/weekly/10' },
                     ],
+                },
+                {
+                    text: '英语',
+                    collapsed: true,
+                    items: [
+                        { text: '单词', link: '/weekly/english01' },
+                    ],
                 }
             ],
             '/knowledge/': [
